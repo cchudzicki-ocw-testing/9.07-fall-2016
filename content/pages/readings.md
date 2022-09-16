@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains textbook citations and supplemental reading material
+  for this course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

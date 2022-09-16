@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains PDFs of all lecture notes and corresponding figures,
+  addendums and figure notes for select lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ SUPPLEMENTAL MATERIALS
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Conditional Probability, Bayes' Rule and Independence (PDF)]({{< baseurl >}}/resources/mit9_07f16_lec1)
+{{% resource_link "c2536503-6796-0f52-4be6-611392e79c53" "Conditional Probability, Bayes' Rule and Independence (PDF)" %}}
 
 
 {{< tdclose >}}
